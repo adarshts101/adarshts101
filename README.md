@@ -3,11 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Adarsh%20TS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
-
 <a href="https://github.com/adarshts101">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=Hi+there%2C+I'm+Adarsh+%F0%9F%91%8B;AI+%2F+Computer+Vision+Engineer+in+the+making;Building+intelligent+systems+that+bridge+software+%26+hardware;Open+Source+Enthusiast+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=1200&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Adarsh+%F0%9F%91%8B;AI+%2F+Computer+Vision+Engineer;Building+Intelligent+AI+Systems;Software+%2B+Embedded+Hardware;Open+Source+Enthusiast;Problem+Solver;Builder"/>
 </a>
-
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
